@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">Лаб 1</string>
+    <string name="label_text">Введите своё имя</string>
+    <string name="name_et_hint">Имя</string>
+    <string name="greeting_message">Привет, %s</string>
+    <string name="greet_button_text">Поприветствовать</string>
+    <string name="default_greet_message">Привет, незнакомец!</string></resources>

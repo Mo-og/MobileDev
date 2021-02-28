@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Gorbik_AI-181_Lab1"
